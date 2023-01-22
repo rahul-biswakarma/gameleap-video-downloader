@@ -12,7 +12,7 @@ This script allows you to download multiple videos in parallel using multi-threa
 
 5. The script also has a pause and resume feature. You can pause the download by calling the pause() method of the MultiThreadDownloader class, and resume the download by calling the resume() method.
 
-##Converter Script
+## Converter Script
 
 This script allows you to combine .webm and .mp4 files that have the same name into a single .mp4 file. Here's how you can use it:
 
